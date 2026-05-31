@@ -1,10 +1,10 @@
-baseURL = "https://anamey.github.io/"
+baseURL = "https://yangyi-shi.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "anamey's Personal Blog"
+title = "Yangyi's Personal Blog"
 
 enableGitInfo = true
 
@@ -154,7 +154,7 @@ hasCJKLanguage = false
   defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = ""
+  gitRepo = "https://github.com/yangyi-shi/yangyi-shi.github.io"
   # which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI
@@ -165,10 +165,10 @@ hasCJKLanguage = false
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "anamey's Blog"
+  title = "Yangyi's Blog"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "anamey's Blog - life/hobbies/study"
+  description = "Yangyi's Blog - life/hobbies/study"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -176,7 +176,7 @@ hasCJKLanguage = false
   # Author config
   # 作者配置
   [params.author]
-    name = "anamey"
+    name = "Yangyi"
     email = ""
     link = ""
 
@@ -197,7 +197,7 @@ hasCJKLanguage = false
       logo = ""
       # title name
       # 标题名称
-      name = "anamey's Blog"
+      name = "Yangyi's Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -265,7 +265,7 @@ hasCJKLanguage = false
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "anamey's Blog"
+    title = "Yangyi's Blog"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -333,7 +333,7 @@ hasCJKLanguage = false
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "anamey's Blog - life/hobbies/study"
+      subtitle = "Yangyi's Blog - life/hobbies/study"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -564,7 +564,7 @@ hasCJKLanguage = false
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
-        owner = "anamey"
+        owner = "yangyi-shi"
         repo = "myblog-comment-storage"
         clientId = "bf42b629395e2156b3c8"
         clientSecret = ""
@@ -627,7 +627,7 @@ hasCJKLanguage = false
       [params.page.comment.utterances]
         enable = true
         # owner/repo
-        repo = "anamey/myblog-comment-storage"
+        repo = "yangyi-shi/myblog-comment-storage"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"

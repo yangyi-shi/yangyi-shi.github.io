@@ -16,8 +16,8 @@ math:
 * :(fas fa-search fa-fw): **Search** exploring the world
 * :(far fa-comments fa-fw): **Adding comments** below if you want to talk
 
-### What does "anamey" mean?
-It means - "A Name" and y is just a letter at the end from my real name. I have a hard time to name my blog, so end up naming it this way.
+### About Yangyi
+This is Yangyi's personal website and blog, a place for notes about life, hobbies, and study.
 
 <!-- ---
 title: "关于 LoveIt"
