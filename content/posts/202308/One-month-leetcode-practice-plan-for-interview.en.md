@@ -1,7 +1,7 @@
 ---
 title: "One Month Leetcode Practice Plan for Interview"
 date: 2023-08-02T18:00:00-07:00
-draft: false
+draft: true
 tags: [leetcode, interview, plan]
 categories: [Software Engineer]
 ---
