@@ -1,7 +1,7 @@
 ---
 title: "About Passion"
 date: 2023-08-03T18:00:00-07:00
-draft: false
+draft: true
 tags: [thoughts]
 categories: [Thoughts]
 ---
